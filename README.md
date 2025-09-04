@@ -85,3 +85,4 @@ Solo sigue los pasos y abre el navegador.
 ```
 
 Listo. Ejecuta, abre el navegador y prueba.
+# inferno-lab-starter
