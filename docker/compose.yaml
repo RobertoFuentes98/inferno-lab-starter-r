@@ -1,0 +1,11 @@
+services:
+  inferno:
+    image: infernocommunity/client-fhir-testing:latest
+    container_name: inferno
+    ports:
+      - "4567:4567"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:4567/"]
+      interval: 10s
+      timeout: 3s
+      retries: 10
