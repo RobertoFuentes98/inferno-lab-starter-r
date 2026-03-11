@@ -86,3 +86,9 @@ Solo sigue los pasos y abre el navegador.
 
 Listo. Ejecuta, abre el navegador y prueba.
 # inferno-lab-starter
+
+# Evidencia del servicio de INFERNO EN LINUX
+- <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/5702ee42-6a12-48bb-b775-c5f8784fe959" />
+- <img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/5545e974-0ac0-4533-9e0c-9cc594f352cc" />
+
+
